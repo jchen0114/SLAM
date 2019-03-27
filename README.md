@@ -9,6 +9,11 @@ Apply SLAM on maps to accuraize the robot trajectory and texure the map image wi
 
 ## Usage
 ----
+#### Load Data
+```sh
+load_data.py
+```
+Load all the data necessary for running the code.
 #### Get Parameters
 ```sh
 utils.py
